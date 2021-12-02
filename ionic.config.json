@@ -1,0 +1,7 @@
+{
+  "name": "Herbal Home Remedies",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
